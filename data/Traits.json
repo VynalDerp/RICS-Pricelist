@@ -2762,5 +2762,68 @@
     "ModSource": "RimWorld",
     "modactive": true,
     "Version": 1
+  },
+  "BreadMo_AAT_Charred_0": {
+    "DefName": "BreadMo_AAT_Charred",
+    "Name": "Amorphous coke",
+    "Degree": 0,
+    "Description": "{PAWN_nameDef}It is a part of an unknown consciousness.",
+    "Stats": [],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 150,
+    "RemovePrice": 250,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Ancient amorphous threat",
+    "modactive": true,
+    "Version": 1
+  },
+  "BreadMo_AAT_PriestessOfUnknown_0": {
+    "DefName": "BreadMo_AAT_PriestessOfUnknown",
+    "Name": "Priestess of unknown",
+    "Degree": 0,
+    "Description": "What the hell is this!",
+    "Stats": [
+      "+60 Melee dodge chance",
+      "+60 Melee hit chance",
+      "+900.0% Melee damage factor"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 33000,
+    "RemovePrice": 55000,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Ancient amorphous threat",
+    "modactive": true,
+    "Version": 1
+  },
+  "BreadMo_AAT_BrideOfTheDusk_0": {
+    "DefName": "BreadMo_AAT_BrideOfTheDusk",
+    "Name": "Bride of the dusk",
+    "Degree": 0,
+    "Description": "It's staring at me",
+    "Stats": [
+      "+2 Beauty"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 300,
+    "RemovePrice": 500,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Ancient amorphous threat",
+    "modactive": true,
+    "Version": 1
   }
 }
